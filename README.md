@@ -14,7 +14,7 @@
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtmeHJncGRxMm1nb3Nyd3R4NWt4NTRkMmZvZ3BwNWFzNDdiZHIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWo8rBjqkKnq0bpTCP/giphy.gif"  />
 
 ###
-<br><br><br>
+<div style="margin-top: 40px;"></div>
 
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
