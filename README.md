@@ -14,6 +14,7 @@
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtmeHJncGRxMm1nb3Nyd3R4NWt4NTRkMmZvZ3BwNWFzNDdiZHIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWo8rBjqkKnq0bpTCP/giphy.gif"  />
 
 ###
+<br><br><br>
 
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -45,8 +46,23 @@
 
 
 ###
-
-<div align="left"> <a href="https://www.instagram.com/lrb.dev/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /> </a> <a href="mailto:na_laribi@esi.dz" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /> </a> <a href="https://www.linkedin.com/in/abderrahim-laribi/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /> </a> <a href="https://stackoverflow.com/users/23522980/abderrahim-laribi" target="_blank"> <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stack Overflow logo" /> </a> </div>
+<div align="left">
+  <a href="https://laribiabderrahim.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio website" />
+  </a>
+  <a href="https://www.instagram.com/lrb.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram logo" />
+  </a>
+  <a href="mailto:na_laribi@esi.dz" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/abderrahim-laribi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/23522980/abderrahim-laribi" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height="40" alt="Stack Overflow logo" />
+  </a>
+</div>
 
 ###
 
