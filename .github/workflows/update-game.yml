@@ -1,0 +1,48 @@
+name: Update Space Shooter Game
+
+on:
+  # Runs daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Allows manual triggering from GitHub UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      # Step 2: Generate the game GIF using gh-space-shooter
+      - name: Generate Space Shooter Game
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          # GitHub's automatically provided token (no setup needed)
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # The GIF will be saved with this name
+          output-path: 'game.gif'
+          
+          # Enemy attack pattern: 'random', 'column', or 'row'
+          strategy: 'random'
+          
+          # Optional: Frame rate (higher = smoother but larger file)
+          # fps: 40
+          
+          # Optional: Your GitHub username if different from repo owner
+          # username: 'yourusername'
+
+      # Step 3: Commit and push the generated GIF
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "chore: update space shooter game GIF" || echo "No changes to commit"
+          git push
