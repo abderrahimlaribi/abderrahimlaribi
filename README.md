@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋 I'm Laribi Abderrahim — a Computer Science student at ESI and a passionate Junior Full-Stack Web Developer based in Algeria. I love building clean, scalable web applications and constantly learning new technologies.</h2>
+<h2 align="center">Hi 👋 I’m Laribi Abderrahim.  
+I turn caffeine into web applications and Stack Overflow tabs into solutions.  
+Powered by coffee, cigarettes, and questionable debugging decisions.</h2>
 
 
 
