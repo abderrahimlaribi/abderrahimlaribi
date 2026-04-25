@@ -2,12 +2,7 @@
 
 <h2 align="center">Hi 👋 I'm Laribi Abderrahim — a Computer Science student at ESI and a passionate Junior Full-Stack Web Developer based in Algeria. I love building clean, scalable web applications and constantly learning new technologies.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahimlaribi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahimlaribi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
