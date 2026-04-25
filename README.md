@@ -70,4 +70,3 @@
 
 ![My GitHub Space Shooter Game](game.gif)
 
-*This game is generated daily from my GitHub contribution graph!*
