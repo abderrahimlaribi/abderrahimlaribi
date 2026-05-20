@@ -1,14 +1,12 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋 I’m Laribi Abderrahim.  
-I turn caffeine into web applications and Stack Overflow tabs into solutions.  
-Powered by coffee, cigarettes, and questionable debugging decisions.</h2>
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtmeHJncGRxMm1nb3Nyd3R4NWt4NTRkMmZvZ3BwNWFzNDdiZHIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWo8rBjqkKnq0bpTCP/giphy.gif"  />
 
 
 
 ###
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtmeHJncGRxMm1nb3Nyd3R4NWt4NTRkMmZvZ3BwNWFzNDdiZHIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWo8rBjqkKnq0bpTCP/giphy.gif"  />
+
 
 ###
 <div style="margin-top: 40px;"></div>
