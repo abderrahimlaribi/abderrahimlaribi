@@ -66,7 +66,6 @@
 ###
 
 
-## 🎮 My Contribution Game
 
 ![My GitHub Space Shooter Game](game.gif)
 
